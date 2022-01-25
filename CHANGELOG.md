@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/googleapis/python-service-management/compare/v1.1.1...v1.2.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#91](https://github.com/googleapis/python-service-management/issues/91)) ([ad49299](https://github.com/googleapis/python-service-management/commit/ad49299424aefbaaef686c79af533058d5fa5b66))
+
 ### [1.1.1](https://www.github.com/googleapis/python-service-management/compare/v1.1.0...v1.1.1) (2021-11-01)
 
 
